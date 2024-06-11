@@ -17,4 +17,4 @@ author: You
 
 - Fantastic.
 
-## And another heading!
+## And another!
